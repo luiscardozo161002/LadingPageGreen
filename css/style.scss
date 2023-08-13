@@ -12,6 +12,7 @@ body{
     backdrop-filter: blur(4px);
     background-position: center;
     background-size:cover;
+    min-height: 100vh;
 }
 
 .header{
@@ -333,6 +334,7 @@ section{
         background-image: url('../img/fondohojas.jpg');
         background-position: center;
         background-size:cover;
+        min-height: 100vh;
     }
 
     .header{
